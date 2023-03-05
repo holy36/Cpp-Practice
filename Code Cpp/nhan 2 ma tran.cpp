@@ -2,7 +2,7 @@
 #include<math.h>
 int i,j,h,m,n,u,v,s;
 using namespace std;
-
+// Code Quang Liu
 int main()
 {
 	int a[99][99]; //Khai bao ma tran A
