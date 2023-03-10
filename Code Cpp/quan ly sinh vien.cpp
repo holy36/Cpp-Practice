@@ -2,7 +2,7 @@
 #include<cstring>
 #include<string.h>
 #include<math.h>
-
+// Code của Quang Liu
 using namespace std;
 
 class SinhVien
